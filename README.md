@@ -1,53 +1,54 @@
 # PRODIGY_WD_04
 
-# 🌐 Remilton's Portfolio Website
-
-A clean and responsive personal portfolio website built using HTML and CSS. Showcases your skills, projects, and contact information in a professional and visually appealing layout.
-
-## 🚀 Features
-
-- Fully responsive design
-- Smooth navigation menu
-- Hero section with profile image and intro
-- About section with education and internship info
-- Skills section with a tech stack overview
-- Projects section with mini project cards
-- Contact section with email, LinkedIn, and GitHub
-- Simple and elegant design using custom CSS
+Welcome to the personal portfolio website of Remilton Doley, a Full Stack Web Developer passionate about building modern, accessible, and responsive web applications. This website serves as a showcase of my skills, projects, and ways to connect with me.
 
 
-## 🛠️ Tech Stack
+📁 Project Structure
+bash
+├── index.html              # Main HTML file
+├── style.css               # Optional custom stylesheet (if separated)
+├── /images                 # Profile or project-related images
+├── /assets                 # Fonts, icons, or additional resources
+└── README.md               # Project documentation
 
-- HTML5
-- CSS3 (Flexbox & Grid)
+🚀 Features
+🧭 Responsive Navigation Bar (Desktop + Mobile)
 
-## 📸 Screenshot
+🎯 Hero Section with CTA
 
-> Replace this line with a screenshot once your site is live or rendered locally.
+👨‍💻 About Me and Education Timeline
 
-## 📌 How to Use
+💡 Skill Cards with Icons and Tooltips
 
-1. Clone or download this repository.
-2. Replace `your-photo.jpg` with your own profile image.
-3. Open `index.html` in any modern browser.
-4. Customize sections as needed (About, Skills, Projects, Contact).
-5. Optionally host it using GitHub Pages or Netlify.
+💼 Featured Projects Grid
 
-## 💡 Customization Tips
+📬 Contact Form with Input Validation and Alert
 
-- Update `title`, `meta`, and favicon in the `<head>` of `index.html`.
-- Use your actual contact details (email, GitHub, LinkedIn).
-- Add more projects or style improvements in `style.css`.
+🔗 Social Media Links
 
-## 📬 Contact
+✨ Scroll-based Animations using IntersectionObserver
 
-Created by [Remilton Doley](mailto:remilton@example.com)  
-🌐 GitHub: [github.com/remilton](#)  
-🔗 LinkedIn: [linkedin.com/in/remilton](#)
+🎨 TailwindCSS + Font Awesome for rapid styling and icons
 
-## 📄 License
+🛠️ Technologies Used
+HTML5
 
-This project is licensed for personal use and inspiration. Feel free to fork and improve!
+Tailwind CSS
 
+JavaScript (ES6+)
 
+Font Awesome
+
+Responsive Web Design
+
+IntersectionObserver API
+
+📬 Contact
+Email: doleyremilton60@gmail.com
+
+Phone: +91 7002929615
+
+Location: Guwahati, Assam
+
+Social: GitHub • LinkedIn • Twitter • Instagram
 
